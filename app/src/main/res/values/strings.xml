@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Play Integrity bypass</string>
+    <string name="xposed_description">Make your device pass Play Integrity check. Shamiko is required.</string>
+    <string-array name="scope">
+        <item>com.google.android.gms</item>
+    </string-array>
+</resources>
